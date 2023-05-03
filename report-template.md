@@ -1,4 +1,10 @@
-# Module 12 Report Template
+# Credit Risk Analysis Report
+
+![CRC](https://user-images.githubusercontent.com/67468718/149666189-fbae54b6-b123-4905-8348-e59ec94cdb1c.png)
+
+[Overview of the Analysis](#Overview of the Analysis)  
+##### Table of Contents  
+
 
 ## Overview of the Analysis
 
